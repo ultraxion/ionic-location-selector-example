@@ -3,12 +3,12 @@ Ionic plugin - A simple component let you select a location from google place
 
 ![alt text](https://raw.githubusercontent.com/ultraxion/ionic-location-selector-example/master/assets/IonicLocationSelectorDemo.gif "Ionic Location Selector")
 
-#Installation
+# Installation
 
 - Extract files from archive
 - Copy files into the **src/components** folder _(create this folder if needed)_
 
-#Usage
+# Usage
 
 - Add google maps api library in your **index.html** :
 
@@ -51,7 +51,7 @@ export class AppModule {}
 <location-selector-input></location-selector-input>
 ```
 
-#Configuration
+# Configuration
 ### Global configuration
 You can add global configuration using **forRoot()** method at the import: 
 - Params available :
