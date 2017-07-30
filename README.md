@@ -70,7 +70,7 @@ You can add global configuration using **forRoot()** method at the import:
     
     **modalNoResultText** : _string_ // text shown when no results
 
-_usage exemple:_
+_usage example:_
 ```javascript
 LocationSelectorModule.forRoot({
     countries: ['us','ca'],
@@ -85,7 +85,7 @@ LocationSelectorModule.forRoot({
 
 ### Attributes
 
-You can also pass some attribute on each selector that override global configuration
+You can also pass some attributes on each selector that override global configuration
 
 - **placeholder** _[ string ]_ default value : 'My location'
 - **showClearButton** _[ boolean ]_ default value : true
@@ -93,7 +93,7 @@ You can also pass some attribute on each selector that override global configura
 
 ### Events
 
-- **locationSelected($event)**  On location selected, return the full google place object response_
+- **locationSelected($event)**  _On location selected, return the full google place object response_
   
 ### Example
 ```html
