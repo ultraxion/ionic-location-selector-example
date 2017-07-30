@@ -6,7 +6,7 @@ Ionic plugin - A simple component let you select a location from google place
 # Installation
 
 - Extract files from archive
-- Copy files into the **src/components** folder _(create this folder if needed)_
+- Copy files into your project's **src/components** folder _(create this folder if needed)_
 
 # Usage
 
